@@ -4,8 +4,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=bo930236)
 
 ### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Bobo Tsai!](https://www.linkedin.com/in/bobo-tsai-b82848171/)
-⚡ Currently working as a Frontend Engineer.</br>
-🌱 I am passionate about Web Dev & I enjoy learning new things.</br>
+⚡ I am currently employed as a Frontend Engineer.</br>
+🌱 I have a strong passion for Web Development and thoroughly enjoy acquiring new knowledge and skills.</br>
 
 <a href="https://www.linkedin.com/in/bobo-tsai-b82848171/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
