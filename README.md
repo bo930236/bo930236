@@ -8,10 +8,10 @@
 🌱 I have a strong passion for Web Development and thoroughly enjoy acquiring new knowledge and skills.</br>
 
 <a href="https://www.linkedin.com/in/bobo-tsai-b82848171/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin/#0A66C2"  />
 </a>
 <a href="mailto:bo930236@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail/#EA4335"  />
 </a>
 </br>
 
